@@ -34,3 +34,7 @@ $(".nav-link").click(function () {
    $("html,body").animate({ scrollTop: mytop }, 1000)
 
 })
+
+let showdata = new Date();
+let display =showdata.getFullYear();
+document.querySelector(".copyrights").innerHTML=`Copyright ${display}. All rights reserved.`

@@ -410,3 +410,72 @@ hr
         background-color: rgba(26, 24, 24, 0.5);
         cursor: pointer;
 }
+.about-icon i
+{
+   font-size: 20px;
+   color: #8e7754;    
+}
+.blog-item i
+{
+   font-size: 25px;     
+   color: #8e7754;    
+}
+.last-cont i
+{
+   font-size: 16px;     
+}
+.madi-icon i
+{
+   font-size: 35px;
+   color: white !important;   
+   margin-left: 15px;  
+   cursor: pointer;
+}
+.icon-face
+{
+    background-color: rgba(83, 82, 82, 0.8);
+   padding-right: 20px;
+   padding-top: 25px;
+   padding-bottom: 13px;
+  border-radius: 50%;
+}
+.icon-gog
+{
+    background-color: rgba(83, 82, 82, 0.8);
+   border-radius: 50%;  
+   padding-right: 10px; 
+   padding-top: 28px;
+   padding-bottom: 15px;
+}
+.icon-face:hover
+{
+   background-color: #007bff;     
+}
+.icon-gog:hover
+{
+    background-color: #dc3545;    
+}
+.icon-linkd
+{
+  background-color: rgba(83, 82, 82, 0.8);
+  border-radius: 50%;
+  padding-right: 15px;
+  padding-top: 25px;
+  padding-bottom: 15px;       
+}
+.icon-linkd:hover
+{     
+   background-color: #2f8ff6;     
+}
+.icon-twit
+{
+  background-color: rgba(83, 82, 82, 0.8);
+  border-radius: 50%;
+  padding-right: 13px;
+  padding-top: 25px;
+  padding-bottom: 15px;      
+}
+.icon-twit:hover
+{
+   background-color: #17a2b8;
+}
